@@ -2,7 +2,7 @@
 
 A high-performance, responsive portfolio website featuring a custom-built space simulation and a modern glassmorphic UI. 
 
-**Live Demo:** [[Insert Your GitHub Pages Link Here]](https://samadritakundu.github.io/Portfolio/)
+**Live Demo:** [[Samadrita Kundu]](https://samadritakundu.github.io/Portfolio/)
 
 ## 🚀 Overview
 This project was designed to showcase my technical skills as a Computer Science & Engineering student. It moves away from standard templates by using a custom HTML5 Canvas engine to render a live, interactive celestial background.
